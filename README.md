@@ -15,7 +15,7 @@ If you find anything missing or want to update existing resources, you can creat
 ### 1. Blockchain & Ethereum Basics:
 
 - ***Blockchain :***
-    - [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
+    - [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)  :white_check_mark:
     - [Blockchain Cryptography](https://101blockchains.com/blockchain-cryptography/)
 - ***Ethereum:***
     - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
