@@ -14,9 +14,6 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 1. Blockchain & Ethereum Basics:
 
-- ***Blockchain :***
-    - [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)  :white_check_mark:
-    - [Blockchain Cryptography](https://101blockchains.com/blockchain-cryptography/)
 - ***Ethereum:***
     - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
         - Mandatory Chapters 1,4,5,6,7,9,13 & 14
@@ -25,9 +22,6 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 2. Solidity Fundamentals:
 
-- [Solidity Docs](https://docs.soliditylang.org/en/latest/)
-- [smartcontract.engineer](https://www.smartcontract.engineer/)
-- [Cryptozombies](https://cryptozombies.io/en/course/)
 - [Solidity-by-example](https://solidity-by-example.org/)
 - ***Secureum***:
     - [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
@@ -95,15 +89,6 @@ If you find anything missing or want to update existing resources, you can creat
 - **Finance:**
     - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
 
-- **DeFi (Decentralized Finance)**
-    - [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
-    - [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
-    - [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
-- **Well known DeFi Protocols:**
-    - [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-    - [Compound](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-    - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
-    - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
 
 - **Common DeFi Attack Vectors:**
     - [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
@@ -163,22 +148,6 @@ If you find anything missing or want to update existing resources, you can creat
     - [Chainsecurity](https://chainsecurity.com/audits/)
     - [Ackee Audit Reports](https://ackeeblockchain.com/blog/)
     - **[Complete List of Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)**
-
-### 11. Keep Yourself Updated:
-
-- **Newsletters**: [Blockthreat](https://newsletter.blockthreat.io/), [Hashingbits](https://quillaudits.substack.com/), [Immunefi](https://immunefi.com/)
-- **Discord Communities**: [QuillAudits](https://discord.gg/b8y4Z8p7Qg), [Immunefi](https://discord.gg/immunefi), [Secureum](https://discord.gg/vGebCTSfNx), [Blockchain Pentesting](https://discord.gg/5JZERC5Vxs), [OpenSense](https://discord.gg/opensense), [Web3SeucurityDAO](https://discord.gg/9SQqMHkQxK), [DeFiHackLabs](https://discord.gg/HtqdYn2ECa)
-- **Twitter**: [Mudit Gupta,](https://twitter.com/Mudit__Gupta/)  [Samczun](https://twitter.com/samczsun), [Certik Alert](https://twitter.com/CertiKAlert), [PeckShieldAlert](https://twitter.com/PeckShieldAlert), [QuillAudits](https://twitter.com/QuillAudits), [BlockSec](https://twitter.com/BlockSecTeam), [BeosinAlert](https://twitter.com/BeosinAlert), [Officer_CIA](https://twitter.com/officer_cia)
-
-### 12. Miscellaneous Resources:
-
-- [Web3Suggests](https://web3suggest.xyz/)
-- [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
-- [TeachYourselfCrypto](https://teachyourselfcrypto.com)
-- [w3bs3c](https://www.w3bs3c.com/)
-- [Awesome Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)
-- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
-- [Learn Blockchain, Solidity, and Full Stack Web3 Development with Python](https://www.youtube.com/watch?v=M576WGiDBdQ)
 
 
 ### Credits:
