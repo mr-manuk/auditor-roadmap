@@ -86,10 +86,6 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 8. Finance and DeFi:
 
-- **Finance:**
-    - [Khan Academy’s Finance](https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities)
-
-
 - **Common DeFi Attack Vectors:**
     - [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
     - [Price Oracle Manipulation](https://medium.com/beaver-smartcontract-security/defi-security-lecture-7-price-oracle-manipulation-d716cdeaaf77)
